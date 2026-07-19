@@ -64,9 +64,9 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
-	
+    background: linear-gradient(135deg, #FFE5EC, #E0F7FA);
 }
+	
 .peach-after {
 	-webkit-animation:peach_alive linear 8s infinite;
 	-moz-animation:peach_alive linear 8s infinite;
